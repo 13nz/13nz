@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Lena 👋
 
-<!--
-**13nz/13nz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a current student and software engineer with 3+ years of professional experience, specializing in **C#** and passionate about game development.
 
-Here are some ideas to get you started:
+- 🎮 I love building games and interactive projects
+- 💻 Main stack: **C#**, Unity, .NET
+- 🌈 Also work with: **JavaScript**, **Python**, **C++**
+- ✨ I value clean, minimalist code and vibrant, colorful design
+- 🚀 Always learning, always building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects & Interests
+
+- Game development with Unity, Unreal, and custom engines
+- Creative coding & interactive art
+- Tools for developers and gamers
+
+---
+
+![Colorful minimalist divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
