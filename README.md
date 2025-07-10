@@ -3,8 +3,8 @@
 I’m a current student and software engineer with 3+ years of professional experience, specializing in **C#** and passionate about game development.
 
 - 🎮 I love building games and interactive projects
-- 💻 Main stack: **C#**, Unity, .NET
-- 🌈 Also work with: **JavaScript**, **Python**, **C++**
+- 💻 Main stack: **C#**, Python, Unity, .NET
+- 🌈 Also work with: **JavaScript**, **C++**
 - ✨ I value clean, minimalist code and vibrant, colorful design
 - 🚀 Always learning, always building
 
