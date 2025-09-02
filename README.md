@@ -10,7 +10,7 @@ I’m a current student and software engineer with 3+ years of professional expe
 
 ## Projects & Interests
 
-- Game development with Unity, Unreal, and custom engines
+- Game development with Unity, Godot, and some Unreal
 - Creative coding & interactive art
 - Tools for developers and gamers
 
